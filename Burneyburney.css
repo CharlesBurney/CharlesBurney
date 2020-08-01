@@ -1,0 +1,138 @@
+#Nav
+{
+    background-color:black; 
+    width:100%;
+    position: fixed;
+    top:0;
+    display: inline;
+
+}
+
+li
+{
+
+}
+
+#columnsWrapper 
+    {
+        border: 6px solid blue;
+        border-radius: 50px;
+        width: 1101px;
+        text-align: center;
+        padding: 8px;
+        margin: 50px auto;
+        background-color:bur;
+        margin-top:100px;
+    }
+
+#header
+    {
+        margin-top: 2px;
+        text-align: center;
+        font-family:inherit;		 
+    }    
+        
+hr
+    {
+        border-top: 2px solid black;
+        padding-bottom: 0px;        
+    }
+
+.group
+    {
+        content: ""; 
+        display: table; 
+        clear: both; 
+    }
+h2
+{
+        text-align: center;
+        color: black;
+        font-size: 35px;
+        margin-bottom: auto;
+}
+
+p
+{
+        text-align: center;
+        font-size:30px;
+        color:black;   
+}
+
+ h3
+    {
+        font-size: 25px;
+        margin: 0px;
+        text-align: center;
+        color: black;
+    }
+        
+ul
+    {
+        list-style:disc;
+        font-size: 20px;
+        }
+
+.LeftColumn
+    {
+    text-indent: 0px;
+    padding: 20px;
+    margin: 20px;
+    width: 241px;
+    height: 390px;
+    border: 8px solid blue;
+    border-radius: 30px;
+    text-align: justify;
+    background-color: burlywood;
+    float: left;
+    }
+
+.RightColumn 
+    {
+        text-indent: 0px;
+        padding: 20px;
+        margin: 20px;
+        width: 200px;
+        height: 390px;
+        border: 8px solid blue;
+        border-radius: 30px;
+        text-align: justify;
+        background-color: burlywood;
+        float: right;
+    }
+
+.TopColumn
+{
+        text-indent: 0px;
+        padding: 20px;
+        border: 8px solid blue;
+        border-radius: 30px;
+        width: 372px;
+        text-align: justify;
+        background-color:burlywood;
+        height: 190px;
+        }
+
+.BottomColumn
+    {
+        text-indent: 0px;
+        padding: 20px;
+        border: 8px solid blue;
+        border-radius: 30px;
+        width: 372px;
+        margin-top: 20px;
+        text-align: justify;
+        background-color:burlywood;
+        height: 120px;
+    }
+
+#Center 
+    {
+       width:428px;
+        margin: 20px;
+        float:left
+    }
+body
+{
+    background-color: orange;   
+}
